@@ -1,0 +1,6 @@
+@MilkteaForFree_HostAddress = http://localhost:5106
+
+GET {{MilkteaForFree_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
